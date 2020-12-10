@@ -1,0 +1,22 @@
+.container-main {
+  margin: 20px auto;
+}
+
+nav.navbar {
+  background: rgb(0, 0, 54);
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.card-header {
+  color: white;
+  background: rgb(0, 0, 54);
+}
+
+.form-control:focus {
+  border-color: rgb(0, 0, 54);
+  box-shadow: 0 0 0 .2rem rgba(0, 0, 54,.25);
+}
